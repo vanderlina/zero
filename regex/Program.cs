@@ -8,7 +8,7 @@ using System.Collections.Generic;
 
 namespace regex
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
